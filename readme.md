@@ -1,4 +1,4 @@
-# EI & Beyond NLP workshop
+# NLP workshop
 
 This repository includes example notebooks to cover several useful techniques in natural language processing, written by Tristan Cann at University of Exeter.
 
